@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ClearCV — AI Resume Analyzer
 
 A local full-stack project using React + Vite, Flask, PDF/DOCX parsing, TF-IDF similarity, skill matching, and optional OpenAI feedback.
@@ -60,3 +61,7 @@ The score is a transparent heuristic combining skill coverage, TF-IDF text relev
 - Do not use the score as a hiring decision or as a substitute for human review.
 - The uploaded file is processed in memory and not saved by this application. If AI feedback is enabled, extracted resume text and job description are sent to the configured AI provider; get appropriate consent and review that provider's privacy terms.
 - The Flask development server is for local development only. Do not expose it publicly as-is.
+=======
+# Ai-Resume-analyzer01
+AI Resume Analyzer built with React, Vite, Flask, and Python to analyze resumes, match skills with job descriptions, calculate resume scores, and provide improvement suggestions.
+>>>>>>> c3df9b809d45f83c6495eee86d3451c64a13baad
